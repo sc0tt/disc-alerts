@@ -1,0 +1,4 @@
+disc-scraping.txt
+*.env
+*.json
+.env/
